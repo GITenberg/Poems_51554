@@ -1,0 +1,23 @@
+_repo: Poems_51554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Matheson, D. M. (Duncan M.)
+    gutenberg_agent_id: '46470'
+    url: http://www.gutenberg.org/2009/agents/46470
+description: ''
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'War poetry, Canadian (English)'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/51554
